@@ -51,6 +51,7 @@ Currently, I'm diving into **C#**, but I also have experience with various other
 
 - **New Learning:**
   - **C#**
+   **GO**
 
 ### 🛠️ **What drives me:**
 - Writing clean, efficient, and maintainable code.

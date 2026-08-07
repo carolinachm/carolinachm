@@ -20,6 +20,7 @@ Atualmente, estou explorando a linguagem **C#**, mas também tenho experiência 
 
 - **Novos aprendizados:**
   - **C#**
+  - **GO**
 
 ### 🛠️ **O que me motiva:**
 - Escrever código limpo, eficiente e de fácil manutenção.
